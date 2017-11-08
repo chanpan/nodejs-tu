@@ -1,6 +1,7 @@
 var spawn = require("child_process").spawn;
 
 setTimeout(function() {
+    console.log("OK");
     Demo1();
 }, 2000);
 
